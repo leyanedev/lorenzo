@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+strong{
+    color: #22d4fd;
+    text-align: center;
+}
+/* Dimensionamento da imagem */
+img {
+    width: 100px; /* ou use percentagens, por exemplo, width: 50%; */
+    height: auto; /* Mantém a proporção original da imagem */
+  }
+  
+ 
